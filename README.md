@@ -8,14 +8,14 @@ Implemented with JavaFX for GUI. Uses B-tree for backend data operations.
 
 ## Prerequisites
 
-*Java 8
-*JavaFX 14
+* Java 8
+* JavaFX 14
 
 ## Vocabulary
 
-*Specimen: individual artifact collected for scientific study, e.g. a femur or tibia
-*Occurrence: animal that a specimen belongs to, e.g. Tyrannosaurus Rex #487166
-*MA: millions of years ago
+* Specimen: individual artifact collected for scientific study, e.g. a femur or tibia
+* Occurrence: animal that a specimen belongs to, e.g. Tyrannosaurus Rex #487166
+* MA: millions of years ago
 
 ## Getting Started
 
